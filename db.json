@@ -1,0 +1,80 @@
+{
+  "allvideos": [
+    {
+      "id": "2",
+      "caption": "Godzilla x Kong : The New Empire ",
+      "url": "https://i.pinimg.com/originals/6f/69/00/6f690089947a98659643e2ce8f5f0200.png",
+      "link": "https://www.youtube.com/embed/9jiUbfEtwcY"
+    },
+    {
+      "id": "3",
+      "caption": "GTA VI Trailer ",
+      "url": "https://wallpapercg.com/media/ts_orig/18750.webp",
+      "link": "https://www.youtube.com/embed/QdBZY2fkU-0"
+    },
+    {
+      "id": "4",
+      "caption": "Furiosa : A Mad Max Saga",
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxZjY3ZDAtNDc1Mi00YzMxLWI4MWEtNzQwZGExYmMzODFhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/embed/XJMuhwVlca4"
+    },
+    {
+      "id": "5",
+      "caption": "Loki Season 2 Trailer",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_loki_s2_finale_poster_v1_613_36711b22.jpeg",
+      "link": "https://www.youtube.com/embed/dug56u8NN7g"
+    },
+    {
+      "id": "6",
+      "caption": "Kung Fu Panda 4 Trailer",
+      "url": "https://images.augustman.com/wp-content/uploads/sites/6/2023/12/13161504/ung-fu-panda-4-719x1024-1.jpeg",
+      "link": "https://www.youtube.com/embed/_inKs4eeHiI"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Kung Fu Panda 4 Trailer",
+      "link": "https://www.youtube.com/embed/_inKs4eeHiI",
+      "timeStamp": "12/22/2023, 03:41:21 PM",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Movie Trailer",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Furiosa : A Mad Max Saga",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjYxZjY3ZDAtNDc1Mi00YzMxLWI4MWEtNzQwZGExYmMzODFhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_FMjpg_UX1000_.jpg",
+          "link": "https://www.youtube.com/embed/XJMuhwVlca4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Game Trailer",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "GTA VI Trailer ",
+          "url": "https://wallpapercg.com/media/ts_orig/18750.webp",
+          "link": "https://www.youtube.com/embed/QdBZY2fkU-0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Series Trailer",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Loki Season 2 Trailer",
+          "url": "https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_loki_s2_finale_poster_v1_613_36711b22.jpeg",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        }
+      ]
+    }
+  ]
+}
